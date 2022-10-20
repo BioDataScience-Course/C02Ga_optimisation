@@ -1,17 +1,23 @@
+---
+output:
+  html_document:
+    df_print: paged
+---
+
 # Optimisation d'un classifieur
 
-Le but de cet exercice consiste à **réaliser collectivement une synthèse** de ce que vous avez appris dans les deux premiers modules du cours et qui peuvent vous servir pour optimiser un classifieur. Vous discutez par groupes de plus en plus grands et synthétisez vos idées. Ensuite, vous les retranscrivez dans ce dépôt.
+## Objectif
 
-- Discussion par binômes pendant 15 min,
+Ce projet est un projet de groupe par quatre. Ce projet doit être soumis au plus tard pour le **10 novembre à 23h59**.
 
-- Présentation d'éléments pour alimenter votre réflexion par le professeur en 10 min,
+Ce projet vous permet de démontrer votre bonne compréhension sur les étapes de réalisation des classifieurs et les moyens à mettre en œuvre afin d'optimiser ce classifieur.
 
-- Discussion par quatre en 15h,
+## Consignes
 
-- Présentation de nouveaux éléments par le professeur en 10min,
+Proposez un document de synthèse de ce que vous avez appris dans les trois premiers modules du cours qui peuvent vous servir pour optimiser un classifieur. Nommez ce fichier `optimisation.md` et placez-le dans le dossier `docs/`.
 
-- Discussion par huit en 20min pour élaborer un document de synthèse,
+Organisez votre document en utilisant des titres explicites dans le document.
 
-- Mise au net des documents de synthèse de chaque équipe dans ce dépôt GitHub (document markdown avec extension `.md` et nommé comme l'équipe\ ; ce document doit reprendre la liste des participants ainsi qu'un résumé des points retenus en 1 page maximum),
+Chaque membre doit effectuer au moins un commit sur le projet. Chaque membre du groupe doit identifier explicitement la partie qu'il a réalisée. Cependant, ce travail est un travail de groupe. Chaque membre est responsable de l'ensemble du travail.
 
-- Le professeur reprend les principaux éléments et détaille ce qui est important.
+Complétez vos connaissances à l'aide d'une recherche bibliographique. Citez l'ensemble de vos sources dans ce document.
