@@ -1,9 +1,3 @@
----
-output:
-  html_document:
-    df_print: paged
----
-
 # Optimisation d'un classifieur
 
 ## Objectif
